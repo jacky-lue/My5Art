@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Golden8Sky", "Golden8Sky\Golden8Sky.vbproj", "{3BBD4F2E-9816-452D-A16C-AA1C0899F1AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Golden8Sky", "Setup_Golden8Sky\Setup_Golden8Sky.vdproj", "{6B9A7E9D-2855-4A3F-ADC7-A984D45C5F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBD4F2E-9816-452D-A16C-AA1C0899F1AB}.Debug|x86.ActiveCfg = Debug|x86
+		{3BBD4F2E-9816-452D-A16C-AA1C0899F1AB}.Debug|x86.Build.0 = Debug|x86
+		{3BBD4F2E-9816-452D-A16C-AA1C0899F1AB}.Release|x86.ActiveCfg = Release|x86
+		{3BBD4F2E-9816-452D-A16C-AA1C0899F1AB}.Release|x86.Build.0 = Release|x86
+		{6B9A7E9D-2855-4A3F-ADC7-A984D45C5F6C}.Debug|x86.ActiveCfg = Debug
+		{6B9A7E9D-2855-4A3F-ADC7-A984D45C5F6C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
