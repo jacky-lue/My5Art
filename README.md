@@ -13,7 +13,7 @@ Visua Studio 方案專案備忘說明:
 
 1-2 Setup_Fate 子目錄 = Setup_Fate (project)
 
-2. Golden8Sky 目錄 = Golden8Sky (solution)
+2 Golden8Sky 目錄 = Golden8Sky (solution)
 
 2-1 Golden8Sky 子目錄 = Golden8Sky (project)
 
